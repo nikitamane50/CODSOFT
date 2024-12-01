@@ -1,2 +1,2 @@
 #THERE IS TASKS CODE WITH VIDEOS CHECK ISSUES SECTION
-https://nikitamane50.github.io/CodSoft/
+
